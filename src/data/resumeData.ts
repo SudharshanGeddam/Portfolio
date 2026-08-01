@@ -79,7 +79,7 @@ export const resumeData = {
     linkedin: "https://www.linkedin.com/in/sudharshan-geddam/",
     about:
       "Mobile Application Developer with hands-on experience building production-grade Flutter applications integrated with Firebase and REST APIs. Strong foundation in role-based systems, responsive UI, and cross-functional collaborative development.",
-    resumePath: "https://drive.google.com/file/d/1uf8bsSoqDLYJiYruQaG4kQ2fd50AHXn0/view?usp=drive_link",
+    resumePath: "https://drive.google.com/file/d/1KkG_8ORbOvWVb8LeNXhVSGlrUXoCbfAT/view?usp=drive_link",
   } satisfies PersonalInfo,
 
   featuredWork: [
